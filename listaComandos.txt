@@ -1,0 +1,1 @@
+git clone -es copiar una carpeta de Git al ordenador local
