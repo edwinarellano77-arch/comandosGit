@@ -1,2 +1,5 @@
 git clone -es copiar una carpeta de Git al ordenador local
 git commit - guarda una copia de los cambios y permite generar una descipcion de lo ejecutado
+git push -sube los commits que hiciste localmente al repositorio remoto en GitHub.
+git status -muestra el estado de los archivos modificados antes de que sean enviados a commit o a push
+git add -prepara los archivos para el commit
