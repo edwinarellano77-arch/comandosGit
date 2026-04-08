@@ -1,1 +1,2 @@
 git clone -es copiar una carpeta de Git al ordenador local
+git commit - guarda una copia de los cambios y permite generar una descipcion de lo ejecutado
